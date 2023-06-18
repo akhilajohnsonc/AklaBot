@@ -1,9 +1,9 @@
 twitter:
   auth:
-    api-key: VQTDNetZ9OWKzjmqJyGMAg12E
-    api-key-secret: cDkqSBfynr666ecIMovpZ8pNzXCFSqljeIYcQ7BazmIRdHg57E
-    access-token: 1613212293457932291-puPQv88mKxZvt9zzzuxxbqljL1LfML
-    access-token-secret: 6x9GRIrZGsjgtEnPq27XR1YC0bX4mytLv42EiX5ldMwsx
+    api-key: 
+    api-key-secret: 
+    access-token: 
+    access-token-secret: 
 bot:
   tweetfreq:
     thirty-minutes: 1800000
